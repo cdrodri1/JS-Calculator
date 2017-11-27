@@ -8,5 +8,14 @@ a {
   color:red;
 }
 
-.frame {
+.case {
+  background-color: blue;
+  background: linear-gradient(115eg, blue, green);
+  width: 400px;
+  border:2px solid yellow;
+  margin:150px auto;
+  box-shadow: 5px 5px 10px turquoise;
+}
+
+  
   
