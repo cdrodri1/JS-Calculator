@@ -13,7 +13,7 @@ function multiply(x,y){
 function divide(x,y){
   return Number(x)/Number(y);
 };
-function operatordetec(operator, value1, value2){
+function calculate(operator, value1, value2){
   switch (operator){
     case "+":
       return add(value1,value2);
