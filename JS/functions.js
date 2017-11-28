@@ -1,7 +1,7 @@
 //Javascript & jQuery
 //11-24-17
 
-const buttons = document.getElementByClassName("button");
+const buttons = document.getElementsByClassName("button");
 const displayscreen = document.querySelector(".displayscreen > p")
 let value1 =""
 let value2 =""
