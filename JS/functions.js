@@ -48,8 +48,8 @@ let value = function() {
             value2 = calc;
           }
         }
-      }});
+      }
+    });
   }
 }
 value() 
-        
