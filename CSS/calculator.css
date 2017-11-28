@@ -11,7 +11,7 @@ a {
 
 .case {
   background-color: blue;
-  background: linear-gradient(115eg, blue, green);
+  background: linear-gradient(115deg, blue, green);
   width: 300px;
   border:2px solid yellow;
   margin:150px auto;
@@ -22,7 +22,7 @@ a {
   display: flex;
   width:280;
   height: 70px;
-  margin: 10px 10px;
+  margin: 5px 5px;
 }
 
 .button, .displayscreen {
